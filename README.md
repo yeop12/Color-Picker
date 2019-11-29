@@ -14,3 +14,8 @@ MapTool에서 각각의 색상 변경을 위해 Color Picker를 만들었습니�
 | ![컬러픽커 구성](https://user-images.githubusercontent.com/11326612/69859446-8a8d3500-12d7-11ea-84a9-b67386dd8c6e.PNG) |
 |:--:|
 | *Color Picker구성* |  
+
+## Color Picker UI 구현
+| ![ColorPicker](https://user-images.githubusercontent.com/11326612/69861112-fd4bdf80-12da-11ea-815a-bee2660a9cf0.gif) |
+|:--:|
+| *Color Picker* |  
